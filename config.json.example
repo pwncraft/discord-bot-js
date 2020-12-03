@@ -1,0 +1,29 @@
+{
+  "token": "",
+  "intents": ["GUILDS","GUILD_MESSAGES","DIRECT_MESSAGES"],
+  "prefix": "~",
+  "ownerId": "",
+  "myGuild": "",
+  "logChannel": "",
+  "roles": {
+      "player": "",
+      "retired": "",
+      "sb2_staff": "",
+      "helper": "",
+      "mod": "",
+      "admin": "",
+      "owner": "",
+      "manager": "",
+      "away": ""
+  },
+  "channels": {
+      "botspam_staff": "",
+      "botspam_public": "",
+      "testing": "",
+      "support": "",
+      "votes": ""
+  },
+  "embed": {
+    "color": "#0099ff"
+  }
+}
